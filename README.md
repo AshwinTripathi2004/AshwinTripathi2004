@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Machine Learning, Next.js & Advanced Backend**
 - 👯 I’m looking to collaborate on **Web Projects, AI Tools, and Hackathons**
 - 💬 Ask me about **JavaScript, React.js, Node.js, Python, AI/ML**
-- 📫 How to reach me: **ashwintripathi2004@gmail.com**
+- 📫 How to reach me: **tripathiashwin2004@gmail.com**
 - ⚡ Fun fact: _I love debugging more than coding sometimes!_
 
 ---
