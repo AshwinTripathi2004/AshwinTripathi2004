@@ -87,11 +87,11 @@
 </div>
 
 <!-- Code To Render 3D Commit Table -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile Contribution graph" />
-</picture>
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -101,4 +101,3 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
-
