@@ -74,19 +74,6 @@
 
 ---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake.svg" />
-  </picture>
-  
-  <br/><br/>
-</div>
-
-<!-- Code To Render 3D Commit Table -->
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
