@@ -5,9 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=ashwintripathi2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 🕺 Dancing Anime Vibes!
+  ![Dancing Anime](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm83dGRiMmR1MzB1YWhwYmhicHk0MjA2aHdsamM4bXgxczUxZ29qaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif)
 
-![Dancing Anime](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y280OW53c3k5dmQzbGx6ZTd6dXNkZXFhbzFnNWMyZ29sMW5tYmZwaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tgLpK2WbZhGe0D6UbT/giphy.gif)
 
 ---
 
