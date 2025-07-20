@@ -5,9 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=ashwintripathi2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
- <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm83dGRiMmR1MzB1YWhwYmhicHk0MjA2aHdsamM4bXgxczUxZ29qaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="300" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+  <!-- Left (Ninja) Image -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm83dGRiMmR1MzB1YWhwYmhicHk0MjA2aHdsamM4bXgxczUxZ29qaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Ninja" width="250"/>
+
+  <!-- Right (New) Image -->
+  <img src="https://raw.githubusercontent.com/AshwinTripathi2004/AshwinTripathi2004/main/assets/new-image.png" alt="New" width="250"/>
+
+</div>
+
 
 
 ---
