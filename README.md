@@ -5,16 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=ashwintripathi2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- Left (Ninja) Image -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm83dGRiMmR1MzB1YWhwYmhicHk0MjA2aHdsamM4bXgxczUxZ29qaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Ninja" width="250"/>
-
-  <!-- Right (New) Image -->
-  <img src="https://github.com/user-attachments/assets/4b6b7fa4-e596-4a86-98e0-a140f7a38f3e" alt="New" width="250"/>
-
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm83dGRiMmR1MzB1YWhwYmhicHk0MjA2aHdsamM4bXgxczUxZ29qaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="300" height="300" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4b6b7fa4-e596-4a86-98e0-a140f7a38f3e" width="300" height="300" style="margin-left: 10px;"/>
+</p>
 
 
 
