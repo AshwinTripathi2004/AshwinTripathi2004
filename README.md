@@ -11,7 +11,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm83dGRiMmR1MzB1YWhwYmhicHk0MjA2aHdsamM4bXgxczUxZ29qaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Ninja" width="250"/>
 
   <!-- Right (New) Image -->
-  <img src="https://raw.githubusercontent.com/AshwinTripathi2004/AshwinTripathi2004/main/assets/new-image.png" alt="New" width="250"/>
+  <img src="![WhatsApp Image 2025-07-20 at 8 53 19 PM (1)](https://github.com/user-attachments/assets/4b6b7fa4-e596-4a86-98e0-a140f7a38f3e)" alt="New" width="250"/>
+
 
 </div>
 
