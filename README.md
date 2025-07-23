@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm83dGRiMmR1MzB1YWhwYmhicHk0MjA2aHdsamM4bXgxczUxZ29qaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="300" height="300" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/4b6b7fa4-e596-4a86-98e0-a140f7a38f3e" width="300" height="300" style="margin-left: 10px;"/>
+
 </p>
 
 
