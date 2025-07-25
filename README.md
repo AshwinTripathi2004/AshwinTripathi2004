@@ -55,9 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ashwintripathi2004&show_icons=true&theme=tokyonight" alt="Ashwini's GitHub Stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwintripathi2004&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwintripathi2004&layout=compact&theme=tokyonight" alt="Top Languages" />
