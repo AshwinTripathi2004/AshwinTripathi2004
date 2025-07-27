@@ -34,9 +34,7 @@
   <a href="https://linkedin.com/in/ashwini-tripathi-81a092278" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/tripathiasgn8d" target="blank">
-    <img src="https://img.shields.io/badge/GFG-%231877F2.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
-  </a>
+ 
 </p>
 
 ---
