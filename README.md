@@ -5,13 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ashwintripathi2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm83dGRiMmR1MzB1YWhwYmhicHk0MjA2aHdsamM4bXgxczUxZ29qaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="300" height="300" style="margin-right: 10px;"/>
-
-</p>
-
-
-
 ---
 
 ## 💫 About Me
